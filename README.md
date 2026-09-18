@@ -1,2 +1,4 @@
-# GAMEDEV-Prototyping-1
-Prototyping 1 - Go Go Gummi!
+# GAMEDEV-Respository
+
+Branches:
+> Prototyping 1 - Go Go Gummi!
