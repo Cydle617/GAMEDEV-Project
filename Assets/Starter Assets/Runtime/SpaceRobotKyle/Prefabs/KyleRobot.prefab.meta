@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 6becbcc6d6f635b41b059ecc30a993cd
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 196526
+  packageName: First Person + Third Person | Character Controllers
+  packageVersion: 2.0.1
+  assetPath: Assets/Starter Assets/Runtime/SpaceRobotKyle/Prefabs/KyleRobot.prefab
+  uploadId: 998422
